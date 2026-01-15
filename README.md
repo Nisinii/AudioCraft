@@ -11,7 +11,7 @@ Audio Craft is an innovative script generation system that transforms textual na
 * **Sound Effect Enrichment:** Employs NLP to identify and annotate contextual sound effects (e.g., footsteps, ambient sounds) based on narrative cues.
 * **Intuitive UI:** A clean frontend built in React allows for easy text uploads, setting adjustments, and script previews.
 
-## 📸 Project Showcase
+## Project Showcase
 
 ![1748699981347](https://github.com/user-attachments/assets/0ab50dbc-6850-4663-8aa1-4b545c2d1283)
 
