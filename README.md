@@ -2,7 +2,7 @@
 
 Audio Craft is an innovative script generation system that transforms textual narratives—such as book chapters or storylines—into fully-realized audio scripts. It intelligently incorporates customization of tone, genre, and creativity level, empowering users to adapt outputs to specific storytelling needs.
 
-## ✨ Key Features
+## Key Features
 
 * **Narrative-to-Script Conversion:** Transforms plain text from stories or books into rich, production-ready audio scripts.
 * **Deep Customization:** Allows users to control the script's tone, genre, and the precise level of AI creative input.
@@ -21,7 +21,7 @@ Audio Craft is an innovative script generation system that transforms textual na
 
 
 
-## 🚀 How It Works
+## How It Works
 
 The system leverages a fine-tuned **OpenAI GPT-3** Transformer Model to perform deep natural language analysis, identifying characters, scene transitions, and dialogue structures within complex narrative texts. This allows for the generation of richly detailed audio scripts tailored to user-defined parameters.
 
@@ -31,7 +31,7 @@ In addition, Audio Craft incorporates **NLP-driven sound effect extraction**, wh
 
 The frontend, built in **React**, offers an intuitive interface where users can upload text and adjust customization settings. The backend, powered by **Flask**, manages model integration and processing pipelines, ensuring smooth interaction between the frontend and AI-driven modules.
 
-## 🛠️ Tech Stack & Skills
+## Tech Stack & Skills
 
 * **Frontend:** React.js
 * **Backend:** Python, Flask
