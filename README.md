@@ -38,3 +38,57 @@ The frontend, built in **React**, offers an intuitive interface where users can 
 * **AI & NLP:** OpenAI (GPT-3), Prompt Engineering, Natural Language Processing (NLP), Sentiment Analysis
 * **Design & UI:** Figma, User Interface Design
 * **Architecture:** REST APIs, Microservices
+
+ ---
+
+## Getting Started
+
+Follow these steps to set up Audio Craft on your local machine.
+
+### 1. Clone the Repository
+```bash
+git clone [https://github.com/Nisinii/AudioCraft.git](https://github.com/Nisinii/AudioCraft.git)
+cd AudioCraft
+```
+
+### 2. Configure the AI Brain (Backend)
+The backend is powered by Flask and requires an OpenAI API key to process the narratives.
+
+1. Navigate to the app directory:
+```bash
+cd "Audio Craft/audio-craft-backend/app"
+```
+
+2. Set your API Key: Open the file generate_through_story.py and locate the following line:
+```bash
+# Set OpenAI API key
+openai.api_key = "YOUR_API_KEY_HERE"
+```
+Replace "YOUR_API_KEY_HERE" with your actual OpenAI secret key.
+
+3. Run the Flask server:
+```bash
+python app.py
+```
+
+### 3. Launch the Visual Interface (Frontend)
+Open a second terminal window to run the React application.
+
+1. Navigate to the frontend directory:
+```bash
+cd "Audio Craft/audio-craft-frontend"
+```
+
+2. Install dependencies:
+```bash
+npm install
+```
+
+3. Start the development server:
+```bash
+npm run dev
+```
+
+---
+### Check out the Live demo consisting of code explanation and the research behind this project
+https://www.youtube.com/watch?v=7b4I8X8Nor0
