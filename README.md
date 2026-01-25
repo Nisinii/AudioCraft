@@ -92,3 +92,14 @@ npm run dev
 ---
 ### Check out the Live demo consisting of code explanation and the research behind this project
 https://www.youtube.com/watch?v=7b4I8X8Nor0
+
+---
+
+## Author
+
+**Nisini Niketha** *Software Engineer & Digital Architect*
+
+* [GitHub](https://github.com/Nisinii)
+* [LinkedIn](https://www.linkedin.com/in/nisini-niketha/)
+* [Contact](mailto:wnisini.niketha@gmail.com)
+
