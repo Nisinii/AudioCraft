@@ -1,6 +1,6 @@
 # Audio Craft - AI-Powered Adaptive Audio Script Generator
 
-Audio Craft is an innovative script generation system that transforms textual narratives—such as book chapters or storylines—into fully-realized audio scripts. It intelligently incorporates customization of tone, genre, and creativity level, empowering users to adapt outputs to specific storytelling needs.
+Audio Craft is an innovative script generation system that transforms textual narratives, such as book chapters or storylines, into fully-realized audio scripts. It intelligently incorporates customization of tone, genre, and creativity level, empowering users to adapt outputs to specific storytelling needs.
 
 ## Key Features
 
