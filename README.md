@@ -60,7 +60,7 @@ Follow these steps to set up Audio Craft on your local machine.
 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/Nisinii/AudioCraft.git](https://github.com/Nisinii/AudioCraft.git)
+git clone https://github.com/Nisinii/AudioCraft.git
 cd AudioCraft
 ```
 
@@ -103,8 +103,7 @@ npm run dev
 ```
 
 ---
-### Check out the Live demo consisting of code explanation and the research behind this project
-https://www.youtube.com/watch?v=7b4I8X8Nor0
+### Check out the Live demo consisting of code explanation and the research behind this project: https://www.youtube.com/watch?v=7b4I8X8Nor0
 
 ---
 
