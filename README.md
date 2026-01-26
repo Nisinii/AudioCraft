@@ -1,6 +1,29 @@
-# Audio Craft - AI-Powered Adaptive Audio Script Generator
+# AUDIO CRAFT
 
-Audio Craft is an innovative script generation system that transforms textual narratives, such as book chapters or storylines, into fully-realized audio scripts. It intelligently incorporates customization of tone, genre, and creativity level, empowering users to adapt outputs to specific storytelling needs.
+<img width="1328" height="818" alt="Audio Craft" src="https://github.com/user-attachments/assets/0ab50dbc-6850-4663-8aa1-4b545c2d1283" />
+
+> **AI-Powered Adaptive Audio Script Generator.**
+> An intelligent orchestration system that transforms textual narratives into production-ready audio scripts by decoding emotional subtext and environmental cues.
+
+[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
+[![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
+[![OpenAI GPT-3](https://img.shields.io/badge/OpenAI_GPT--3-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+[![Python NLP](https://img.shields.io/badge/Python_NLP-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
+
+---
+
+## The Concept
+
+**Audio Craft** is an innovative platform designed to bridge the gap between static literature and immersive audio experiences. It acts as a **digital screenwriter**, utilizing Large Language Models to analyze narrative text and automatically generate complex scripts complete with character direction and foley cues.
+
+While standard conversion tools are literal, Audio Craft uses AI to:
+* **Synthesize Dialogue:** Extract and refine character interactions into formatted script blocks.
+* **Inject Emotional Metadata:** Use sentiment analysis to provide actors with "Emotion Integration" cues.
+* **Annotate Soundscapes:** Automatically identify "narrative triggers" to suggest contextual sound effects like ambient weather or footsteps.
+
+<img width="1330" height="823" alt="Interface 1" src="https://github.com/user-attachments/assets/ff3c169f-4f4c-4bcc-bbe6-b2996e1ae60e" />
+<img width="1324" height="823" alt="Interface 2" src="https://github.com/user-attachments/assets/1d83ca33-62f8-486f-ae32-7403187426ea" />
 
 ## Key Features
 
@@ -10,16 +33,6 @@ Audio Craft is an innovative script generation system that transforms textual na
 * **Emotion Integration:** A custom-built sentiment analysis module detects and integrates character emotions into the script for a more authentic experience.
 * **Sound Effect Enrichment:** Employs NLP to identify and annotate contextual sound effects (e.g., footsteps, ambient sounds) based on narrative cues.
 * **Intuitive UI:** A clean frontend built in React allows for easy text uploads, setting adjustments, and script previews.
-
-## Project Showcase
-
-![1748699981347](https://github.com/user-attachments/assets/0ab50dbc-6850-4663-8aa1-4b545c2d1283)
-
-![1748700075316](https://github.com/user-attachments/assets/ff3c169f-4f4c-4bcc-bbe6-b2996e1ae60e)
-
-![1748700224615](https://github.com/user-attachments/assets/1d83ca33-62f8-486f-ae32-7403187426ea)
-
-
 
 ## How It Works
 
