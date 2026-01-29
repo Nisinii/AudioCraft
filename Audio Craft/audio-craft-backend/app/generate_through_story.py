@@ -3,7 +3,7 @@ import nltk
 import spacy
 
 # Set OpenAI API key
-openai.api_key = "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"
+openai.api_key = "OPEN_API_KEY"
 
 # Download nltk resources
 # nltk.download('wordnet')

@@ -6,7 +6,7 @@ import spacy
 from add_sound_cues import AddSoundCues
 import os
 
-openai.api_key = "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"
+openai.api_key = "OPENAI_API_KEY"
 
 # Get the directory of the current script
 current_directory = os.path.dirname(os.path.abspath(__file__))
