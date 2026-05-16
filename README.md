@@ -29,7 +29,7 @@ While standard conversion tools are literal, Audio Craft uses AI to:
 
 * **Narrative-to-Script Conversion:** Transforms plain text from stories or books into rich, production-ready audio scripts.
 * **Deep Customization:** Allows users to control the script's tone, genre, and the precise level of AI creative input.
-* **Intelligent Content Generation:** Uses OpenAI's GPT-3 to automatically generate character descriptions, dialogues, and scene headings.
+* **Intelligent Content Generation:** Uses OpenAI's GPT-4 to automatically generate character descriptions, dialogues, and scene headings.
 * **Emotion Integration:** A custom-built sentiment analysis module detects and integrates character emotions into the script for a more authentic experience.
 * **Sound Effect Enrichment:** Employs NLP to identify and annotate contextual sound effects (e.g., footsteps, ambient sounds) based on narrative cues.
 * **Intuitive UI:** A clean frontend built in React allows for easy text uploads, setting adjustments, and script previews.
