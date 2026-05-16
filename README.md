@@ -48,7 +48,7 @@ The frontend, built in **React**, offers an intuitive interface where users can 
 
 * **Frontend:** React.js
 * **Backend:** Python, Flask
-* **AI & NLP:** OpenAI (GPT-3), Prompt Engineering, Natural Language Processing (NLP), Sentiment Analysis
+* **AI & NLP:** OpenAI (GPT-4), Prompt Engineering, Natural Language Processing (NLP), Sentiment Analysis
 * **Design & UI:** Figma, User Interface Design
 * **Architecture:** REST APIs, Microservices
 
