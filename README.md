@@ -36,7 +36,7 @@ While standard conversion tools are literal, Audio Craft uses AI to:
 
 ## How It Works
 
-The system leverages a fine-tuned **OpenAI GPT-3** Transformer Model to perform deep natural language analysis, identifying characters, scene transitions, and dialogue structures within complex narrative texts. This allows for the generation of richly detailed audio scripts tailored to user-defined parameters.
+The system leverages a fine-tuned **OpenAI GPT-4** Transformer Model to perform deep natural language analysis, identifying characters, scene transitions, and dialogue structures within complex narrative texts. This allows for the generation of richly detailed audio scripts tailored to user-defined parameters.
 
 A **custom-built sentiment analysis module** further enriches the output by detecting and integrating character emotions into dialogues and scene descriptions, enabling a more authentic and emotionally engaging audio experience.
 
