@@ -7,7 +7,7 @@
 
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/)
-[![OpenAI GPT-3](https://img.shields.io/badge/OpenAI_GPT--3-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
+[![OpenAI GPT-4](https://img.shields.io/badge/OpenAI_GPT--4-412991?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/)
 [![Python NLP](https://img.shields.io/badge/Python_NLP-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
